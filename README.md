@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 A web engineer from Japan
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okomeee)
-![okomeee's github stats](https://github-readme-stats.vercel.app/api?username=okomeee&show_icons=true&count_private=true)
+![okomeee's github stats](https://github-readme-stats.vercel.app/api?username=okomeee&show_icons=true&count_private=true&line_height=40)
